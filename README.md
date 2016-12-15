@@ -17,7 +17,7 @@
 希尔排序
 
 ----------------------------------------------------------------------------------------------------------
-8 methods to sort for python
+8 methods to sort implement by python
 
 bubble sort
 
